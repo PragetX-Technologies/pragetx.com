@@ -1,0 +1,28 @@
+<section class="words-client-main">
+   <div class="container-fluid">
+      <div class="con-head text-center">
+         <h2>Words from clients</h2>
+         <h5>We provide cutting edge web and mobile app solutions</h5>
+      </div>
+      <div class="words-client-con">
+         <div class="words-client-video">
+            <img src="image/client-video1.png">
+            <a href="#">
+               <img src="image/video-play-ic.svg">
+            </a>
+         </div>
+         <div class="words-client-video">
+            <img src="image/client-video1.png">
+            <a href="#">
+               <img src="image/video-play-ic.svg">
+            </a>
+         </div>
+         <div class="words-client-video">
+            <img src="image/client-video1.png">
+            <a href="#">
+               <img src="image/video-play-ic.svg">
+            </a>
+         </div>
+      </div>
+   </div>   
+</section>

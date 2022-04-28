@@ -1,0 +1,70 @@
+<section class="ai-ml-we-work">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="con-head text-center">
+               <h2>How we work:</h2>
+               <h5>Our AI app developers design intelligent solutions to help your business solve <br>problems, automate tasks, and serve customers better. </h5>
+            </div>
+         </div>
+      </div>
+      <div class="ai-we-work-main">
+         <div class="row">
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w1.svg">
+                  </div>
+                  <h5>Analysis</h5>
+                  <p>Our team will understand the scenario where AI/ML can be performed, and devise the AI/ML program to be used.</p>
+               </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w2.svg">
+                  </div>
+                  <h5>Designing</h5>
+                  <p>The designing part should be engaging enough to sustain the readers, so we analyze thoroughly before working on it.</p>
+               </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w3.svg">
+                  </div>
+                  <h5>Development</h5>
+                  <p>We work on the coding section to impart you with determined results, apart from the AI and ML development process.</p>
+               </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w4.svg">
+                  </div>
+                  <h5>Testing</h5>
+                  <p>We strictly follow the QA testing process to track every development, hence ensuring 100% bug-free solutions.</p>
+               </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w5.svg">
+                  </div>
+                  <h5>Deployment</h5>
+                  <p>After testing, we make the required changes, if any, and deploy the product to the customer’s network so as to know the final result.</p>
+               </div>
+            </div>
+            <div class="col-lg-2 col-md-6 col-sm-12">
+               <div class="we-work-box">
+                  <div class="we-work-ic">
+                     <img src="image/ai-w6.svg">
+                  </div>
+                  <h5>Support</h5>
+                  <p>We give technical support, and if any update is required to the AI/ML network, our team does it well.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>

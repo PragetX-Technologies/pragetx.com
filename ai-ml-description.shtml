@@ -1,0 +1,38 @@
+<section class="ai-ml-description">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="con-head text-center">
+               <h2>How We Can Help You For An AI/ML Solution</h2>
+               <h5>Pragetx uses the full potential of cutting-edge technologies, like ML and AI, <br>while offering consulting and development services to clients.</h5>
+            </div>
+         </div>
+         <div class="description-box">
+            <div class="col-lg-6">
+               <div class="description-con-left">
+                  <h4>Data Capture & Processing</h4>
+                  <p>Everything circles back to data in AI and ML, and our software development experts understand that. We build innovative solutions that help filter valuable data from the multitude of structured and unstructured data in different formats that your business produces.</p>
+               </div>
+            </div>
+            <div class="col-lg-6">
+               <div class="description-con-right">
+                  <h4>Analytics </h4>
+                  <p>We are a trusted ML/AI software development company powered by the skillset of big data, NLP and text analysis, and predictive analytics. Our data engineers specialize in extracting insights from data that help anticipate your business outcomes in real-time. </p>
+               </div>
+            </div>
+            <div class="col-lg-6">
+               <div class="description-con-left">
+                  <h4>Multi-Platform Integration</h4>
+                  <p>Every traditional system can be made intelligent - this is the guiding belief that our artificial intelligence service providers operate on. We ensure that every solution we make - irrespective of the scale and complexity - fits in your ongoing process seamlessly.</p>
+               </div>
+            </div>
+            <div class="col-lg-6">
+               <div class="description-con-right">
+                  <h4>Machine Learning Solutions</h4>
+                  <p>Machine learning technology excels in finding insights hidden in data without being told what to look at or what to infer. Our Machine Learning development services revolve around working with intuitive, comprehensive tools with automated feature engineering capabilities. </p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>

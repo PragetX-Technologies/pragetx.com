@@ -1,0 +1,87 @@
+<section class="serving-fortune-main">
+   <div class="container">
+      <div class="serving-fortune-con">
+         <div class="con-head text-center">
+            <h2>serving fortune 500 companies</h2>
+            <h5>We provide cutting edge web and mobile app solutions</h5>
+         </div>
+         <div class="serving-logo-box-main">
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-oracle.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-mtn.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-mtu.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-bcg.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-adidas.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-unsw.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-lifetechnologies.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-jackson_coker.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-mcdonalds.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-vodafone.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-abbott.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-essilor.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-best-buy.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-smithfield.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-yahoo.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-astrazeneca.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-vfsglobal.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-haas.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-tata.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-cosmopolitan.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-astrazeneca.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-vfsglobal.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-haas.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-tata.png">
+            </div>
+            <div class="serving-logo">
+               <img src="image/logo-brand-black-cosmopolitan.png">
+            </div>
+         </div>
+      </div>
+   </div>   
+</section>

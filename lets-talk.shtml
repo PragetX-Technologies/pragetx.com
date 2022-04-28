@@ -1,0 +1,98 @@
+<section class="say-hello-main">
+   <div class="container-fluid">
+      <div class="d-flex flex-row say-hello-con">
+         <div class="col-lg-6 col-md-12">
+            <div class="contact-detail">
+               <div class="form-img">
+                  <img src="image/form-img.png">
+               </div>
+               <div class="con-detail">
+                  <div class="col-lg-12">
+                     <div class="f-skype">
+                        <a class="d-flex" href="skype:.cid.2f0f01a83b32003a">
+                           <span>
+                              <img src="image/skype.svg">
+                           </span>
+                           pragetX
+                        </a>
+                     </div>
+                  </div>
+                  <div class="col-lg-12">
+                     <div class="f-skype">
+                        <a class="d-flex" href="callto:918487890773">
+                           <span>
+                              <img src="image/call.svg">
+                           </span>
+                           +91-846-021-8989
+                        </a>
+                     </div>
+                  </div>
+                  <div class="col-lg-12">
+                     <div class="f-skype">
+                        <a class="d-flex" href="mailto:hello@pragetx.com">
+                           <span>
+                              <img src="image/email.svg">
+                           </span>
+                           hello@pragetx.com
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-6 col-md-12 text-left">
+            <div class="home-contact-form">
+               <h3>Fill the form below to say 'Hi!'.</h3>
+               <form>
+                  <div class="form-row">
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Your Name">
+                     </div>
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Email Address">
+                     </div>
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Contact Number">
+                     </div>
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Alternative Contact Number">
+                     </div>
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Please Share Your Portfolio Hyperlink">
+                      <span style="color: #fff;font-size: 12px;">(Git/Dribble/Behance/Pinterest/Blog/Medium)</span>
+                     </div>                           
+                     <div class="col-lg-6 col-md-12">
+                      <input type="text" class="form-control" placeholder="Cover Letter">
+                     </div>
+                     <div class="col-lg-12 col-md-12">
+                        <div class="input-group custom-file-button">
+                           <label class="input-group-text" for="inputGroupFile">Upload Your CV/Resume</label>
+                           <input type="file" class="form-control" id="inputGroupFile">
+                        </div>
+                     </div>
+                     <div class="col-lg-12 col-md-12">
+                        <div class="form-check form-check-inline">
+                           <p>Will you be able to work both as Remote and in-person if required?</p>
+                           <div class="d-flex">
+                              <div class="radio">
+                                 <input id="radio-1" name="radio" type="radio" checked>
+                                 <label for="radio-1" class="radio-label">Yes</label>
+                              </div>
+                              <div class="radio">
+                                 <input id="radio-2" name="radio" type="radio">
+                                 <label  for="radio-2" class="radio-label">No</label>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-lg-12 col-md-12 p-1">
+                      <input type="text" class="form-control" placeholder="If selects no, then please mention any one: remote or in-person">
+                     </div>
+                  </div>
+                  <button type="submit" class="btn btn-primary">Submit Job Application</button>
+               </form>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>

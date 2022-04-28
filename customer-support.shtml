@@ -1,0 +1,26 @@
+<section class="customer-support-main">
+   <div class="container">
+      <div class="customer-support">
+         <div class="row gy-5">
+            <div class="col-lg-6 col-md-12">
+               <div class="customer-support-con">
+                  <h2>Customer Support & <br>Services</h2>
+                  <p>Our Highly skilled IT Service team is ready to support with very short period of time and also it will be available as on-demand.</p>
+                  <a href="#" class="btn">Contact US <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+               </div>
+            </div>
+            <div class="col-lg-6 col-md-12">
+               <div class="trusted-by-img">
+                  <h3>24 X 7</h3>
+                  <img src="image/customer-support-img.png">
+                  <h3>Support</h3>
+                  <a href="#" class="cus-ic1"><img src="image/cs-email-ic.svg"></a>
+                  <a href="#" class="cus-ic2"><img src="image/cs-call-ic.svg"></a>
+                  <a href="#" class="cus-ic3"><img src="image/cs-video-call-ic.svg"></a>
+                  <a href="#" class="cus-ic4"><img src="image/cs-chat-ic.svg"></a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>   
+</section>

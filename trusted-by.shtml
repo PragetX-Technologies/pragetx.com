@@ -1,0 +1,44 @@
+<section class="trusted-by-main">
+   <div class="container">
+      <div class="row gy-5">
+         <div class="col-lg-6 col-md-12">
+            <div class="trusted-by-logo">
+               <div class="t-by-logo">
+                  <img src="image/tb-school-owl.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-urnest.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-neogrowth.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-elc.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-hungry-veels.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-nawee-app.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-folo-app.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-meraaki-designs.png">
+               </div>
+               <div class="t-by-logo">
+                  <img src="image/tb-j1click.jpg">
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-6 col-md-12">
+            <div class="trusted-by-con">
+               <h2>Our Trusted Customers</h2>
+               <p>With innovative thinking and a positive attitude toward dealing with industrial problems in mind, developers at PragetX strive to provide clients with the best quality assistance till the project meets the business objectives. </p>
+               <a href="#" class="btn">Get In Touch <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            </div>
+         </div>
+      </div>
+   </div>   
+</section>

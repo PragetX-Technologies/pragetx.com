@@ -1,0 +1,291 @@
+<!--/. comman footer -->
+<footer class="footer">
+    <div class="container">
+        <div class="d-flex flex-row footer-address-main">
+            <div class="footer-logo">
+                <img src="image/logo.svg">
+            </div>
+            <div class="d-flex footer-address">
+                <div class="add-ic">
+                    <img src="image/office.svg">
+                </div>
+                <div class="add-con">
+                    <h5>Corporate Office:</h5>
+                    <p>16, Ground floor, Time Square 1 Arcade,Thalej - Silaj Road, Thaltej - Ahmedabad - 380059</p>
+                </div>
+            </div>
+            <div class="d-flex footer-address">
+                <div class="add-ic">
+                    <img src="image/office.svg">
+                </div>
+                <div class="add-con">
+                    <h5>Registered Office:</h5>
+                    <p>D-101, Elanza Crest, Nr.Sigma House, Sindhubhavan road, Bodakdev, Thaltej Ahmedabad – 380059</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12 col-sm-12">
+        <hr>
+    </div>
+    <div class="container">
+        <div class="d-flex flex-row footer-link-main">
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-link ftr__list">
+                <h5>Company</h5>
+                <ul>
+                    <li><a href="#" class="lear-more-l">About Us</a></li>
+                    <li><a href="#" class="lear-more-l">Why PragetX?</a></li>
+                    <li class="hiring-link blink-menu"><a href="#" class="lear-more-l blink-active">Career</a> <span class="hiring">We Are Hiring</span></li>
+                    <li><a href="#" class="lear-more-l">Referral Program</a></li>
+                    <li><a href="#" class="lear-more-l">Become a Partner</a></li>
+                    <li><a href="#" class="lear-more-l">Blog</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-link ftr__list">
+                <h5>Services</h5>
+                <ul>
+                    <li><a href="#" class="lear-more-l">Software Development</a></li>
+                    <li><a href="#" class="lear-more-l">Digital Marketing</a></li>
+                    <li><a href="#" class="lear-more-l">UI/UX Design</a></li>
+                    <li><a href="#" class="lear-more-l">Enterprise Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Web Development</a></li>
+                    <li><a href="#" class="lear-more-l">App Development</a></li>
+                    <li><a href="#" class="lear-more-l">Database Management</a></li>
+                    <li><a href="#" class="lear-more-l">Cloud Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Branding</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-link ftr__list">
+                <h5>Hire Developer</h5>
+                <ul>
+                    <li><a href="#" class="lear-more-l">Hire Software Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Digital Marketing</a></li>
+                    <li><a href="#" class="lear-more-l">Hire UI/UX Design</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Enterprise Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Web Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire App Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Database Management</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Cloud Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Branding</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12 col-12 footer-link ftr__list">
+                <h5>Our Casestudy</h5>
+                <ul>
+                    <li><a href="#" class="lear-more-l">Hire Software Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Digital Marketing</a></li>
+                    <li><a href="#" class="lear-more-l">Hire UI/UX Design</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Enterprise Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Web Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire App Development</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Database Management</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Cloud Solution</a></li>
+                    <li><a href="#" class="lear-more-l">Hire Branding</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="footer-contact">
+        <div class="container">
+            <div class="d-flex flex-row">
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="f-skype">
+                        <a class="d-flex" href="skype:.cid.2f0f01a83b32003a">
+                            <span>
+                                <img src="image/skype-f.svg">
+                            </span>
+                            pragetX
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12 f-border">
+                    <div class="f-skype">
+                        <a class="d-flex" href="callto:918487890773">
+                            <span>
+                                <img src="image/call-f.svg">
+                            </span>
+                            +91-84878 90773
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-12">
+                    <div class="f-skype">
+                        <a class="d-flex" href="mailto:hello@pragetx.com">
+                            <span>
+                                <img src="image/email-f.svg">
+                            </span>
+                            hello@pragetx.com
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="d-flex flex-row">
+            <div class="col-lg-4 col-md-4 col-sm-12 copy-right">
+                <p><span>© 2022 <a href="#" target="_new">Pragetx Technologis</a> All rights reserved.</span></p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 bottom-link">
+                <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Use</a></p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 social-icon">
+                <a href="https://www.facebook.com/PragetX"><img src="image/facebook.svg"></a>
+                <a href="https://twitter.com/PragetX"><img src="image/twitter1.svg"></a>
+                <a href="https://www.linkedin.com/company/79788955"><img src="image/linkedin.svg"></a>
+                <a href="https://www.instagram.com/pragetx_technologies/"><img src="image/instagram.svg"></a>
+                <a href="https://github.com/PragetX-Technologies"><img src="image/github.svg"></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/swiper-bundle.min.js"></script>
+<script src="js/jquery.marquee.min.js"></script>
+<!-- <script src="js/video.js"></script> -->
+<script type="text/javascript">
+    $('.marquee_text').marquee({
+        direction: 'left',
+        duration: 50000,
+        gap: 50,
+        delayBeforeStart: 0,
+        duplicated: true,
+        startVisible: true
+    });
+
+    $(window).scroll(function(){
+      var sticky = $('.header-main'),
+          scroll = $(window).scrollTop();
+
+      if (scroll >= 100) sticky.addClass('fixed');
+      else sticky.removeClass('fixed');
+    });
+
+    var counted = 0;
+        $(window).scroll(function() {
+
+          var oTop = $('#counter').offset().top - window.innerHeight;
+          if (counted == 0 && $(window).scrollTop() > oTop) {
+            $('.count').each(function() {
+              var $this = $(this),
+                countTo = $this.attr('data-count');
+              $({
+                countNum: $this.text()
+              }).animate({
+                  countNum: countTo
+                },
+
+                {
+
+                  duration: 2000,
+                  easing: 'swing',
+                  step: function() {
+                    $this.text(Math.floor(this.countNum));
+                  },
+                  complete: function() {
+                    $this.text(this.countNum);
+                    //alert('finished');
+                  }
+
+                });
+            });
+            counted = 1;
+          }
+
+        });
+
+    const swiper = new Swiper(".swiper", {
+        // Optional parameters
+        direction: "horizontal",
+        loop: true,
+        autoHeight: false,
+        centeredSlides:true,
+        slidesPerView: 1,
+        autoplay: {
+            delay: 2000,
+        },
+      // Responsive breakpoints
+          breakpoints: {
+                640: {
+              slidesPerView:2,
+                      spaceBetween: 40,
+            },
+            992: {
+              slidesPerView: 3,
+                      spaceBetween: 40,
+            }
+          },
+
+        // If we need pagination
+        pagination: {
+            el: ".swiper-pagination"
+        },
+
+        // Navigation arrows
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev"
+        }
+
+        // And if we need scrollbar
+        /*scrollbar: {
+        el: '.swiper-scrollbar',
+      },*/
+    });
+
+    function collision($div1, $div2) {
+      var x1 = $div1.offset().left;
+      var w1 = 40;
+      var r1 = x1 + w1;
+      var x2 = $div2.offset().left;
+      var w2 = 40;
+      var r2 = x2 + w2;
+        
+      if (r1 < x2 || x1 > r2) return false;
+      return true;
+      
+    }
+    
+    // // slider call
+
+    $('#slider').slider({
+        range: true,
+        min: 5000,
+        max: 500000,
+        values: [ 5000, 500000 ],
+        slide: function(event, ui) {
+            
+            $('.ui-slider-handle:eq(0) .price-range-min').html('$' + ui.values[ 0 ]);
+            $('.ui-slider-handle:eq(1) .price-range-max').html('$' + ui.values[ 1 ]);
+            $('.price-range-both').html('<i>$' + ui.values[ 0 ] + ' - </i>$' + ui.values[ 1 ] );
+            
+            //
+            
+        if ( ui.values[0] == ui.values[1] ) {
+          $('.price-range-both i').css('display', 'none');
+        } else {
+          $('.price-range-both i').css('display', 'inline');
+        }
+            
+            //
+            
+            if (collision($('.price-range-min'), $('.price-range-max')) == true) {
+                $('.price-range-min, .price-range-max').css('opacity', '0');    
+                $('.price-range-both').css('display', 'block');     
+            } else {
+                $('.price-range-min, .price-range-max').css('opacity', '1');    
+                $('.price-range-both').css('display', 'none');      
+            }
+            
+        }
+    });
+
+    $('.ui-slider-range').append('<span class="price-range-both value"><i>$' + $('#slider').slider('values', 0 ) + ' - </i>' + $('#slider').slider('values', 1 ) + '</span>');
+
+    $('.ui-slider-handle:eq(0)').append('<span class="price-range-min value">$' + $('#slider').slider('values', 0 ) + '</span>');
+
+    $('.ui-slider-handle:eq(1)').append('<span class="price-range-max value">$' + $('#slider').slider('values', 1 ) + '</span>');
+
+</script>

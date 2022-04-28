@@ -1,0 +1,124 @@
+<section class="ai-ml-services">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-12">
+            <div class="con-head text-center">
+               <h2>Services We offer</h2>
+               <h5>Our developed AI/ML algorithms are capable of instilling value across a wide <br>range of intelligent devices catering to varied industries. </h5>
+            </div>
+         </div>
+      </div>
+      <div class="ai-services-main">
+         <div class="row">
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s1.svg">
+                  </div>
+                  <h5><a href="#">Machine <br>Learning</a></h5>
+                  <p>We assist you in developing and deploying personalized and data-intensive solutions based on Machine Learning Services.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/business-intelligence.svg">
+                  </div>
+                  <h5><a href="#">Business <br>Intelligence</a></h5>
+                  <p>Adopt Teksun’s AI and Machine Learning services to develop and deploy machine learning models at a fast pace.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s3.svg">
+                  </div>
+                  <h5><a href="#">Chatbots / <br>Conversational AI</a></h5>
+                  <p>Enrich your business by deploying powerful Chatbot Development Services that enables you with the capabilities.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s4.svg">
+                  </div>
+                  <h5><a href="#">Object / Image <br>Processing & Recognition</a></h5>
+                  <p>We display profound expertise in imparting professional Image Processing services powered by a wide spectrum of computer.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s5.svg">
+                  </div>
+                  <h5><a href="#">Behavior <br>Analytics</a></h5>
+                  <p>Adopt Teksun’s AI and Machine Learning services to develop and deploy machine learning models at a fast pace.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s6.svg">
+                  </div>
+                  <h5><a href="#">Robotic Process <br>Automation (RPA)</a></h5>
+                  <p>Attain increased speed and efficiency by allowing smart bots to carry out daily repetitive tasks such as billing, accounting.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s7.svg">
+                  </div>
+                  <h5><a href="#">Predictive <br>Analysis</a></h5>
+                  <p>Get hold of reliable and purposeful forecasts with Teksun’s Predictive Analysis services to derive the best.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s8.svg">
+                  </div>
+                  <h5><a href="#">Emotion <br>Learning</a></h5>
+                  <p>Get on the top of the client list by locking their experience with Teksun’s Emotion Learning services.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s9.svg">
+                  </div>
+                  <h5><a href="#">Cognitive <br>Service</a></h5>
+                  <p>Develop cutting-edge applications using cognitive services, and get your business a stack of features like emotion.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s10.svg">
+                  </div>
+                  <h5><a href="#">Natural Language <br>Processing</a></h5>
+                  <p>Adopt the our Natural Language Processing Services to make the best of your unstructured data be it in the form of audio, text.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/speech-to-text.svg">
+                  </div>
+                  <h5><a href="#">Speech to Text</a></h5>
+                  <p>We, at Teksun Inc, build and develop next-gen business applications using premium data sets.</p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-12">
+               <div class="services-box">
+                  <div class="services-ic">
+                     <img src="image/ai-s12.svg">
+                  </div>
+                  <h5><a href="#">Deep <br>Learning</a></h5>
+                  <p>Teksun’s real-time Deep Learning Services help you unlock the full potential of the new-age applications.</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>

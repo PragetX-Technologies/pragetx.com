@@ -1,0 +1,196 @@
+<section class="ai-techno-stack">
+   <div class="container">
+      <div class="con-head text-center">
+         <h2>How AI & ML help various industries?</h2>
+         <h5>AI and ML can be used to power any company’s decision-making process, <br>helping them to make better business predictions.</h5>
+      </div>
+      <div class="ai-techno-stack-con-main">
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               DI Frameworks
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-caffe2.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-chainer.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-mx-net.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-nvidia.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-pytorch.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-theano.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               Modules/Toolkits
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-kurento.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cognitive-toolkit.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-core-ml.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-kurento.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cognitive-toolkit.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-core-ml.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               Libraries
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-sonnet.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-tensorflow.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-quantum.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-lite.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-hub.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-extended.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-tensorflow-2.0.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               Concepts
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-few-shot-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-clusters.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-metric-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-supervisedvsunsupervised.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-machine-learning.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               Neural Networks
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cnn.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-rnn.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-representation-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-mlab.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-manifold-learning.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="ai-techno-stack-step">
+            <div class="step-head">
+               Platforms
+            </div>
+            <div class="step-logo">
+               <div class="marquee_text">
+                  <div class="ai-stack-logo">
+                     <img src="image/amazon-machine-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-amazon-rekognition.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-amazon-machine-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-azure.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-azure-bot.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-azure-cognitive.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-amazon-lex.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-amazon-polly.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-azure-machine-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-google-cloud-machine-learning.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cloud-vision-api.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cloud-natural-language.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-dialog-flow.png">
+                  </div>
+                  <div class="ai-stack-logo">
+                     <img src="image/ai-cloud-speech-api.png">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>

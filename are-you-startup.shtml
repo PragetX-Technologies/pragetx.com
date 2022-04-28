@@ -1,0 +1,9 @@
+<section class="are-you-startup-main">
+   <div class="container-fluid">
+      <div class="con-head text-center">
+         <h3>Are you a Startup or individual making a change in society?</h3>
+         <p>“Being Startup, We Understand Your Journey Better”Give us a chance to be part of your challengesLet’s <br>be part of this great ecosystem TOGETHER</p>
+         <a href="#" class="btn">View More <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+      </div>
+   </div>   
+</section>

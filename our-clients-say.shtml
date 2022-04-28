@@ -1,0 +1,96 @@
+<section class="our-clients-say-main">
+   <div class="container">
+      <div class="con-head text-center">
+         <h2>What Our Clients Say.</h2>
+         <h5>We provide cutting edge web and mobile app solutions</h5>
+      </div>
+      <div class="clients-slider">
+               <div class="swiper">
+                  <!-- Additional required wrapper -->
+                  <div class="swiper-wrapper">
+                     <!-- Slides -->
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/ari-shai.png"></div>
+                              <p>"Thanks for a great job! It was a pleasure working with you, everything was done on the best side and on time. The developer was professional and very cooperative. Highly recommended!!"</p>
+                              <p class="cite">- Ari Shai</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/carlos.png"></div>
+                              <p>"Highly recommend. I think their strong point is communication. They do follow you in your project and that is priceless. We hired this agency for a redesign of a corporate site in europe. They work on budget and deliver on time. Thanks"</p>
+                              <p class="cite">- Carlos Rosales</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/school-owl.png"></div>
+                              <p>"Team PragetX was great to deliver the website I was thinking of. They were dedicated and very professional. Output was better then what I expected and as they promised. Will surely return for future projects to sagar and his team."</p>
+                              <p class="cite">- Archana Tiwari</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/manish-chaudhary.jpg"></div>
+                              <p>"We are so grateful for all of your hard work and constantly impressed by your excellent performance. Your hard work and commitment helped us complete our project on time. Thanks PragetX for being your best every day!"</p>
+                              <p class="cite">- Manish Chaudhary</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/tb-folo-app.png"></div>
+                              <p>"PragetX is a professional team of software developers who deliver quality product on time. Also, after delivery support is great. Team which worked with us (Sagar, Jevin and Harsh) went extra mile to fix issues faced by us after delivery."</p>
+                              <p class="cite">- 4sure Tech</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/krishna-kumar.jpg"></div>
+                              <p>"Team is professional, They have expertise in delivering app on time and in a minimal budget. Thanks to the team and their hard efforts, which helped me reach a milestone of complex project."</p>
+                              <p class="cite">- Krishan Kumar</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/praveen-vivek.png"></div>
+                              <p>"It was great Experience working with such professional Team . Keep up the good Work guys . We would be getting back to you shortly with next further development works"</p>
+                              <p class="cite">- Pravin Vivek</p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="content-wrapper">
+                           <div class="content">
+                              <div class="swiper-avatar"><img src="image/jyotirmayi.jpg"></div>
+                              <p>"The team is very cooperative and delivers good quality work on time. They are receptive to feedback. Overall it was a very good experience working with them. Would surely reccommend them to other organisations."</p>
+                              <p class="cite">- Jyotirmayi Baral</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
+                  <!-- If we need pagination -->
+                  <!-- If we need navigation buttons -->
+                  <div class="swiper-nav-wrapper">
+                     <div class="swiper-button-prev"></div>
+                     <div class="swiper-pagination"></div>
+                     <div class="swiper-button-next"></div>
+                  </div>
+               </div>
+            </div>
+   </div>   
+</section>

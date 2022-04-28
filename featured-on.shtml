@@ -1,0 +1,44 @@
+<section class="featured-on-main">
+   <div class="container">
+      <div class="industries-we-serve">
+         <div class="row gy-5">
+            <div class="col-lg-6 col-md-12">
+               <div class="con-head text-left">
+                  <h2>Accredited and <br>featured on</h2>
+                  <p>We are acclaimed as a premier software development company by leaders across a range of industries we have worked in. We are recognized for our strong set of values, professional team, and commitment to quality. </p>
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-aws.png">
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-microsoft.png">
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-quality-system.png">
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-nasscom.png">
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-iso-security.png">
+               </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+               <div class="featured-logo">
+                  <img src="image/f-b2b-companies.png">
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>   
+</section>

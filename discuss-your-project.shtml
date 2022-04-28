@@ -1,0 +1,12 @@
+<section class="discuss-your-project-main">
+   <div class="container">
+      <div class="discuss-your-project-con">
+         <div class="discuss-left">
+            <h3>We are your ideal parttner to leverage <br>emerging tech in innovative ways.</h3>
+         </div>
+         <div class="discuss-btn">
+            <a href="#" class="btn">LET’S Discuss your Project <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+         </div>
+      </div>
+   </div>   
+</section>

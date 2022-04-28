@@ -1,0 +1,24 @@
+<section class="our-base-main">
+   <div class="container">
+      <div class="our-base-con">
+         <div class="con-head text-center">
+            <h2>Our Base</h2>
+            <h5>Times Square Arcade, Thaltej-Shilaj Road, Thaltej, Ahmedabad, India – 380059</h5>
+         </div>
+         <div class="our-base">
+            <a class="d-flex" href="#">
+               <span>
+                  <img src="image/call-f.svg">
+               </span>
+               +91-846-021-8989
+            </a>
+            <a class="d-flex" href="#">
+               <span>
+                  <img src="image/email-f.svg">
+               </span>
+               hello@pragetx.com
+            </a>
+         </div>
+      </div>
+   </div>
+</section>

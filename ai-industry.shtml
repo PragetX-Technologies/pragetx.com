@@ -1,0 +1,113 @@
+<section class="ai-industry">
+   <div class="container">
+      <div class="con-head text-center">
+         <h2>How AI & ML help various industries?</h2>
+         <h5>AI and ML can be used to power any company’s decision-making process, <br>helping them to make better business predictions.</h5>
+      </div>
+   </div>
+   <div class="industry-con">
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i1.svg">
+         </div>
+         <h5>Healthcare</h5>
+         <ul>
+            <li>Risk Prediction</li>
+            <li>Diagnostics and alert</li>
+            <li>Fraud</li>
+            <li>Customer 360 view</li>
+            <li>Dosage error reduction</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i2.svg">
+         </div>
+         <h5>Transportation</h5>
+         <ul>
+            <li>Demand forecasting</li>
+            <li>Self driving vehicles</li>
+            <li>Traffic management</li>
+            <li>Delay predictions</li>
+            <li>Drone taxis</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i3.svg">
+         </div>
+         <h5>Marketing</h5>
+         <ul>
+            <li>Recommendation engines</li>
+            <li>User Targeting</li>
+            <li>Customer 360 view</li>
+            <li>Click stream analysis</li>
+            <li>Social media analysis</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i4.svg">
+         </div>
+         <h5>Finance</h5>
+         <ul>
+            <li>Fraud Detection</li>
+            <li>Risk Analysis</li>
+            <li>Customer 360 view</li>
+            <li>Credit scoring</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i5.svg">
+         </div>
+         <h5>Retail</h5>
+         <ul>
+            <li>Inventory Optimization</li>
+            <li>Demand Forecasting</li>
+            <li>SCM Optimization</li>
+            <li>Pricing Optimization</li>
+            <li>Market Segmentation</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i6.svg">
+         </div>
+         <h5>E-commerce</h5>
+         <ul>
+            <li>Recommender System</li>
+            <li>Pricing optimization</li>
+            <li>Fraud protection</li>
+            <li>Self-service Portals</li>
+            <li>Supply & demand prediction</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i7.svg">
+         </div>
+         <h5>Manufacturing</h5>
+         <ul>
+            <li>Predictive maintenance</li>
+            <li>Quality optimization</li>
+            <li>Process automation</li>
+            <li>Connected factories</li>
+            <li>Inventory management</li>
+         </ul>
+      </div>
+      <div class="industry-box">
+         <div class="industry-ic">
+            <img src="image/ai-i8.svg">
+         </div>
+         <h5>Education</h5>
+         <ul>
+            <li>Research insight</li>
+            <li>Predictive analytics</li>
+            <li>Personalized learning</li>
+            <li>Grading System</li>
+            <li>Speech recognition</li>
+         </ul>
+      </div>
+   </div>
+</section>
