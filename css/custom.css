@@ -2969,7 +2969,7 @@ h6{font-size:18px!important;line-height:30px!important;letter-spacing:-1px;font-
 .ai-ml-top-slider h1 {
 	/*color: #fff !important;*/
 	text-align: left;
-	margin: 0 !important;
+	margin: 0 0 15px !important;
 }
 .ai-ml-top-slider h5 {
 	/*color: #fff;*/
@@ -3223,8 +3223,30 @@ h6{font-size:18px!important;line-height:30px!important;letter-spacing:-1px;font-
   vertical-align: top;
   margin: 0 0 120px;
 }
-
-
+/*==================nft-development==================*/
+.nft-top-slider {
+	display: inline-block;
+	width: 100%;
+	vertical-align: top;
+	height: 100vh;
+	background: url(../image/nft-development.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 0;
+}
+.nft-top-slider h1 {
+	/*color: #fff !important;*/
+	text-align: left;
+	margin: 0 0 15px !important;
+}
+.nft-top-slider h5 {
+	/*color: #fff;*/
+	text-align: left;
+}
+.nft-top-slider .row {
+	align-items: center;
+}
 
 
 
@@ -3309,6 +3331,15 @@ h3{font-size:30px!important;line-height:35px!important;}
 .career-top-slider .row {
 	height: 850px;
 }
+.website-pro img {
+	width: auto;
+}
+.contact-btn {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+}
 }
 @media only screen and (max-width:1440px){
 .header-top-slider .row h1 {
@@ -3387,6 +3418,9 @@ h3{font-size:30px!important;line-height:35px!important;}
 .career-top-slider .row {
 	height: 730px;
 }
+.contact-top-con {
+  padding: 0 50px;
+}
 }
 @media only screen and (max-width:1366px){
 .service-box1, .service-box2 {
@@ -3425,6 +3459,13 @@ h4 {
 }
 .startup-con a {
 	font-size: 14px;
+}
+.contact-btn .f-skype a {
+	padding: 11px 15px;
+	align-items: center;
+}
+.contact-btn .f-skype a img {
+	max-height: 20px;
 }
 }
 @media only screen and (max-width:1024px){
